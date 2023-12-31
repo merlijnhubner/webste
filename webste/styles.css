@@ -1,0 +1,118 @@
+/* css styles */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+nav {
+    background-color: #eee;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav a {
+    color: #333;
+    text-decoration: none;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-alig
+
+    /* Top menu */
+             .top-menu {
+               background-color: #333;
+               color: #fff;
+               display: flex;
+               justify-content: space-between;
+               padding: 10px 20px;
+             }
+           /* Add transitions for smooth animations */
+           * {
+             transition: all 0.3s ease; 
+           }
+           
+           /* Add box shadows */
+           .box-shadow {
+             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+           }  
+           
+           /* Add border radius for rounded corners */
+           .rounded {
+             border-radius: 8px;
+           }
+           
+           /* Add gradients for more depth */  
+           .gradient {
+             background: linear-gradient(to bottom, #eee, #fff);
+           }
+                      .gradient {/* Add gradients for more depth */  }.rounded {/* Add border radius for rounded corners */  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);.box-shadow {/* Add box shadows */  transition: all 0.3s ease; * {
+             .top-menu a {
+               color: #fff;
+               text-decoration: none;
+             }
+             
+             /* Modern footer */
+             footer {
+               background-color: #222;
+               color: #fff;
+               padding: 20px;
+               text-align: center;
+             }
+             
+             footer a {
+               color: #fff;
+             }
+             
+             footer p {
+               margin: 0;
+             }
+             
+             footer a {  text-align: center;  padding: 20px;  color: #fff;  background-color: #222;footer {/* Modern footer */}  text-decoration: none;  color: #fff;.top-menu a {}  padding: 10px 20px;  justify-content: space-between;  display: flex;  color: #fff;  background-color: #333;.top-menu {: center;
+}
+
+/* Add transitions for smooth animations */
+* {
+    transition: all 0.3s ease;
+}
+
+/* Add box shadows */
+.box-shadow {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Add border radius for rounded corners */
+.rounded {
+    border-radius: 8px;
+}
+
+/* Add gradients for more depth */
+.gradient {
+    background: linear-gradient(to bottom, #eee, #fff);
+}
